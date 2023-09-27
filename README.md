@@ -1,4 +1,4 @@
-# projeto endereço
+# Projeto Endereço 📍
 
 ## 📋Descrição
 O projeto Página de cadastro de endereço é um formulário online que permite inserir informações como CEP, endereço, número, bairro, cidade e estado. O formulário foi desenvolvido com o uso de HTML, CSS e JavaScript, além de ferramentas de aprimoramento do código, como a biblioteca Bootstrap e expressões regulares, para a disciplina de Programação Web I.
