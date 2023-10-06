@@ -24,7 +24,7 @@ https://getbootstrap.com/docs/5.0/getting-started/introduction/
  
 
 ## ✒️ Autores
-* Beatriz Oliveira De Lima
-![Imagem](img/bia.png ) 
+* Beatriz Oliveira De Lima 
+<img src="img/bia.png" width="10%">
 
 
