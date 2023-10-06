@@ -15,10 +15,9 @@ O projeto Página de cadastro de endereço é um formulário online que permite 
 - `Cadastrar`: Botão para salvar os dados inseridos nos campos.
 
 ### 🛠️ Tecnologia ultilizadas
-bootstrap 
- HTML
- CSS
- JAVASCRIPT
+- `Bootstrap`
+- `HTML`
+- `JAVASCRIP`
 
  ## 📄 Fontes consultadas
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
@@ -26,4 +25,6 @@ https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
 ## ✒️ Autores
 * Beatriz Oliveira De Lima
-![Imagem] (img/imagem bia.jfif)
+![Imagem](img/imgbia_files)
+
+
